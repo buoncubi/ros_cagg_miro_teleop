@@ -88,4 +88,4 @@ Finally, consider that the sentence is not recognized if the node streams an emp
 [Luca Buoncompagni](mailto:luca.buoncompagni@edu.unige.it)
 EMAROlab, DIBRIS department, University of Genoa, Italy.
 
-Previous commit for this package can be (found here)[https://gitlab.com/EMAROLabGroup/ros_cagg_miro_teleop].
+Previous commit for this package can be [found here](https://gitlab.com/EMAROLabGroup/ros_cagg_miro_teleop).
